@@ -8,25 +8,27 @@
   <title>Frontend Mentor | Tip calculator app</title>
 </head>
 <body>
-  <img src="./images/logo.svg" alt="Splitter">
+  <img src="./images/logo.svg" alt="Splitter" class="logo">
   <main>
     <div class="content">
       <div class="bill-div">
           <label for="bill">Bill</label>
-          <input type="number" name="bill" id="bill" placeholder="$">
+          <input type="number" name="bill" id="bill" value="142.55">
       </div>
       <div class="tip-div">
         <p>Select Tip %</p>
-        <button class="tip-button">5%</button>
-        <button class="tip-button">10%</button>
-        <button class="tip-button">15%</button>
-        <button class="tip-button">25%</button>
-        <button class="tip-button">50%</button>
-        <input type="number" placeholder="Custom">
+        <div class="buttons-div">
+          <button class="tip-button" id="five-percent">5%</button>
+          <button class="tip-button" id="ten-percent">10%</button>
+          <button class="tip-button" id="fifthteen-percent">15%</button>
+          <button class="tip-button" id="twentyfive-percent">25%</button>
+          <button class="tip-button" id="fifty-percent">50%</button>
+          <input class="tip-button"type="number" id="custom-percent" placeholder="Custom">
+        </div>
       </div>
       <div class="people">
         <label for="num-people">Number of People</label>
-        <input type="number" name="num-people">
+        <input type="number" name="num-people" id="num-people" value="5">
       </div>
       <div class="total">
         <p class="amount">Tip Ampount <span>/person</span></p>
