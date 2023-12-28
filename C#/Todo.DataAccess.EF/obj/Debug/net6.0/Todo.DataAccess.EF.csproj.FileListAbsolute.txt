@@ -1,0 +1,14 @@
+C:\Users\leo_e\OneDrive\Documents\C#\Todo.DataAccess.EF\bin\Debug\net6.0\Todo.DataAccess.EF.deps.json
+C:\Users\leo_e\OneDrive\Documents\C#\Todo.DataAccess.EF\bin\Debug\net6.0\Todo.DataAccess.EF.dll
+C:\Users\leo_e\OneDrive\Documents\C#\Todo.DataAccess.EF\bin\Debug\net6.0\Todo.DataAccess.EF.pdb
+C:\Users\leo_e\OneDrive\Documents\C#\Todo.DataAccess.EF\obj\Debug\net6.0\Todo.DataAccess.EF.csproj.AssemblyReference.cache
+C:\Users\leo_e\OneDrive\Documents\C#\Todo.DataAccess.EF\obj\Debug\net6.0\Todo.DataAccess.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo_e\OneDrive\Documents\C#\Todo.DataAccess.EF\obj\Debug\net6.0\Todo.DataAccess.EF.AssemblyInfoInputs.cache
+C:\Users\leo_e\OneDrive\Documents\C#\Todo.DataAccess.EF\obj\Debug\net6.0\Todo.DataAccess.EF.AssemblyInfo.cs
+C:\Users\leo_e\OneDrive\Documents\C#\Todo.DataAccess.EF\obj\Debug\net6.0\Todo.DataAccess.EF.csproj.CoreCompileInputs.cache
+C:\Users\leo_e\OneDrive\Documents\C#\Todo.DataAccess.EF\obj\Debug\net6.0\Todo.DataAccess.EF.dll
+C:\Users\leo_e\OneDrive\Documents\C#\Todo.DataAccess.EF\obj\Debug\net6.0\refint\Todo.DataAccess.EF.dll
+C:\Users\leo_e\OneDrive\Documents\C#\Todo.DataAccess.EF\obj\Debug\net6.0\Todo.DataAccess.EF.pdb
+C:\Users\leo_e\OneDrive\Documents\C#\Todo.DataAccess.EF\obj\Debug\net6.0\ref\Todo.DataAccess.EF.dll
+C:\Users\leo_e\OneDrive\Documents\C#\Todo.DataAccess.EF\bin\Debug\net6.0\Todo.DataAccess.EF.runtimeconfig.json
+C:\Users\leo_e\OneDrive\Documents\C#\Todo.DataAccess.EF\obj\Debug\net6.0\Todo.DataAccess.EF.genruntimeconfig.cache
